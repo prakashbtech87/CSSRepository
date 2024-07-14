@@ -1,7 +1,11 @@
 h1 {
-    color: green
+    font-family: Roboto, sans-serif;
 }
 
-h2 {
-    color: blue
+p {
+    font-family: Roboto, sans-serif;
+}
+
+p span {
+    font-size: xx-large;
 }
