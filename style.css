@@ -1,3 +1,21 @@
+/* * {
+    background-color: brown;
+    color: #fff
+} */
+
+
+
+
+.intro {
+    /*class*/
+    background-image: url(https://wallpaper.forfun.com/fetch/2f/2fe6f46a93e87a2f0db7c99c9fc478a3.jpeg);
+    background-color: green;
+    height: 650px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0%;
+}
+
 h1 {
     font-family: Roboto, sans-serif;
 }
@@ -8,4 +26,18 @@ p {
 
 p span {
     font-size: xx-large;
+}
+
+
+.text-white {
+    color: #FFF
+}
+
+.intro h1 {
+    color: white;
+}
+
+.intro>p {
+    color: #FFF;
+    font-size: 42px;
 }
